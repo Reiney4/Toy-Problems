@@ -6,6 +6,8 @@ def is_consonant(char):
 def get_consonant_value(char):
     return ord(char) - ord('a') + 1
 
+# created a function that iterates through the input string to get  the maximum value of calculation
+
 def highest_consonant_value(s):
     max_value = 0
     current_value = 0
