@@ -1,4 +1,6 @@
-def convert_to_24_hour(hour, minute, period):
+#created a function convert_24hour
+
+def convert_24hour(hour, minute, period):
     if period == "pm":
         hour = (hour + 12) % 24 if hour != 12 else 12
     else:
