@@ -2,6 +2,7 @@
 def is_consonant(char):
     return char.isalpha() and char not in "aeiou"
 
+#created a function to calculate the value of the constant
 def get_consonant_value(char):
     return ord(char) - ord('a') + 1
 
