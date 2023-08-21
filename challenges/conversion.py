@@ -9,4 +9,4 @@ def convert_to_24_hour(hour, minute, period):
     return f"{hour:02d}{minute:02d}"
 
 # Directly use the function and print the result
-print(convert_to_24_hour(8, 30, "am"))
+print(convert_to_24_hour(6, 25, "pm"))
