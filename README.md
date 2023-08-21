@@ -4,6 +4,7 @@ The toy problems consiss of three challenges.
 ## Table of content
 * Description 
 * Installation requirement
+* Usage
 * Technology used
 * Licence
 * Authors info
@@ -26,7 +27,14 @@ pipenv install
 ```
 and follow the commands given to install the necessary pip files
 
+# Usage
+## Programiz
 
+* In order to confirm if your codes are working one can use  programiz.
+* Paste your solution at the main.py
+* Run the code 
+## Python shell
+* Copy and paste the codes in the python shell.
 
 # TECHNOLOGY USED
 python
