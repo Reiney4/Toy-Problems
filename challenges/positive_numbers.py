@@ -14,6 +14,6 @@ def positive_count(a, b, c):
         return False
 
 
-result = positive_count(10,- 5, 2)
+result = positive_count(10, 5, 2)
 print(result)  
 
